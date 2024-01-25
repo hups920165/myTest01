@@ -2,6 +2,8 @@ header {
     height: 250px;
     background: #f7ca04;
     border-radius: 10px;
+    background-image: url(/pexels-daniel-frese-2983472.jpg);
+    background-size: cover;
 }
 
 main {
