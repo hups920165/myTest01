@@ -4,6 +4,10 @@ header {
     border-radius: 10px;
     background-image: url(/pexels-daniel-frese-2983472.jpg);
     background-size: cover;
+    font-size: 60px;
+    color: #fff;
+    display: grid;
+    place-items: center;
 }
 
 main {
